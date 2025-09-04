@@ -182,7 +182,6 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 
 ### Fig 10: Design Browser window for simulation
-<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/e8db366c-9fd1-4f36-b3d4-e5efb2be99db" />
 
 <img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/ed487ac6-7d59-484f-be45-4f029688036d" />
 
